@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kabul-house/static/css/main.27a6936d.css",
+    "main.js": "/kabul-house/static/js/main.2fa45d51.js",
+    "static/media/meal.mp4": "/kabul-house/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/welcome1.png": "/kabul-house/static/media/welcome1.278a45b5e3fab40db596.png",
+    "static/media/bg.png": "/kabul-house/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/findus.png": "/kabul-house/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/kabul-house/static/media/laurels.87c9da69ef7e93db4182.png",
+    "static/media/menu.png": "/kabul-house/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/kabul-house/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery02.png": "/kabul-house/static/media/gallery02.129eddcf55e383012873.png",
+    "static/media/gallery03.png": "/kabul-house/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery01.png": "/kabul-house/static/media/gallery01.5aecf741863976e3e7dd.png",
+    "static/media/chef.png": "/kabul-house/static/media/chef.46915e949f7adbcd5461.png",
+    "static/media/knife.png": "/kabul-house/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/kabul-house/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/kabul-house/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/gericht.png": "/kabul-house/static/media/gericht.9f34a62a12e265f3ca34.png",
+    "static/media/logo.png": "/kabul-house/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/kabul-house/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/kabul-house/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/kabul-house/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/kabul-house/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/kabul-house/index.html",
+    "static/media/spoon.svg": "/kabul-house/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.27a6936d.css.map": "/kabul-house/static/css/main.27a6936d.css.map",
+    "main.2fa45d51.js.map": "/kabul-house/static/js/main.2fa45d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a6936d.css",
+    "static/js/main.2fa45d51.js"
+  ]
+}
